@@ -1,0 +1,9 @@
+Metadata:
+Name: Zvi Kedem
+Net ID: zk1
+Software used for producing the diagram: Microsoft Visio 2010
+Computer used: my own machine running Windows 10 Education
+
+Constraints:
+B is never NULL
+I is computed as N - P
